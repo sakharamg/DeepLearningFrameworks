@@ -9,4 +9,4 @@ The Human Brain by Nancy Kanwisher : [https://youtube.com/playlist?list=PLyGKBDf
 
 Ultrascale Playbok [https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview) - Tricks to use your compute efficiently
 
-TensorFlow Playground - (http://playground.tensorflow.org/](http://playground.tensorflow.org/) - What breadth and Depth does to your neural network
+TensorFlow Playground - [http://playground.tensorflow.org/](http://playground.tensorflow.org/](http://playground.tensorflow.org/](http://playground.tensorflow.org/) - What breadth and Depth does to your neural network
