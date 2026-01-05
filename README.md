@@ -14,6 +14,8 @@ Ultrascale Playbok [https://huggingface.co/spaces/nanotron/ultrascale-playbook?s
 TensorFlow Playground - [http://playground.tensorflow.org/](http://playground.tensorflow.org/) - What breadth and Depth does to your neural network
 
 ## Session 3
+### Dataset
+Intel Scene for Image Classification: https://www.kaggle.com/datasets/puneet6060/intel-image-classification/
 ### Lab
 Lab 3.1 Transformations on Images: https://www.kaggle.com/code/sakharam/understanding-transforms-in-cnn
 
