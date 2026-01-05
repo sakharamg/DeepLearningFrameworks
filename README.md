@@ -19,5 +19,7 @@ Intel Scene for Image Classification: https://www.kaggle.com/datasets/puneet6060
 ### Lab
 Lab 3.1 Transformations on Images: https://www.kaggle.com/code/sakharam/understanding-transforms-in-cnn
 
+Lab3.2 Building Blocks of CNN: https://www.kaggle.com/code/sakharam/building-blocks-of-cnn
+
 Lab 3.3 Building a CNN, Saliency Maps, Class Activation Maps: https://www.kaggle.com/code/sakharam/cnn-explainability
 ### Resources
