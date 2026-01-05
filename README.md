@@ -15,5 +15,7 @@ TensorFlow Playground - [http://playground.tensorflow.org/](http://playground.te
 
 ## Session 3
 ### Lab
+Lab 3.1 Transformations on Images: https://www.kaggle.com/code/sakharam/understanding-transforms-in-cnn
+
 Lab 3.3 Building a CNN, Saliency Maps, Class Activation Maps: https://www.kaggle.com/code/sakharam/cnn-explainability
 ### Resources
