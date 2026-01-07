@@ -18,6 +18,7 @@ TensorFlow Playground - [http://playground.tensorflow.org/](http://playground.te
 Intel Scene for Image Classification: https://www.kaggle.com/datasets/puneet6060/intel-image-classification/
 ### Lab
 Lab 3.1 Gradient Clipping Example: https://www.kaggle.com/code/sakharam/gradient-clipping
+
 Lab 3.2 Transformations on Images: https://www.kaggle.com/code/sakharam/understanding-transforms-in-cnn
 
 Lab 3.3 Building Blocks of CNN: https://www.kaggle.com/code/sakharam/building-blocks-of-cnn
