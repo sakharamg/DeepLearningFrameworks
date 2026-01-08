@@ -24,4 +24,11 @@ Lab 3.2 Transformations on Images: https://www.kaggle.com/code/sakharam/understa
 Lab 3.3 Building Blocks of CNN: https://www.kaggle.com/code/sakharam/building-blocks-of-cnn
 
 Lab 3.4 Building a CNN, Saliency Maps, Class Activation Maps: https://www.kaggle.com/code/sakharam/cnn-explainability
+
+## Session 4
+## Dataset
+https://www.kaggle.com/datasets/jiweiliu/pennfudanped/
+### Lab
+Lab 4 Object Detection: https://www.kaggle.com/code/sakharam/transfer-learning-pedestrian-detection
+
 ### Resources
