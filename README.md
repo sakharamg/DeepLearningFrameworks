@@ -32,3 +32,11 @@ https://www.kaggle.com/datasets/jiweiliu/pennfudanped/
 Lab 4 Object Detection: https://www.kaggle.com/code/sakharam/transfer-learning-pedestrian-detection
 
 ### Resources
+
+## Session 5
+## Dataset
+https://www.kaggle.com/datasets/julinmaloof/the-oxfordiiit-pet-dataset
+### Lab
+Lab 5.1 UNet : https://www.kaggle.com/code/sakharam/segmentation-u-net
+
+Lab 5.2 DeepLab : [https://www.kaggle.com/code/sakharam/segmentation-u-net](https://www.kaggle.com/code/sakharam/segmentation-deeplabv3)
