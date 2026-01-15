@@ -40,3 +40,8 @@ https://www.kaggle.com/datasets/julinmaloof/the-oxfordiiit-pet-dataset
 Lab 5.1 UNet : https://www.kaggle.com/code/sakharam/segmentation-u-net
 
 Lab 5.2 DeepLab : [https://www.kaggle.com/code/sakharam/segmentation-u-net](https://www.kaggle.com/code/sakharam/segmentation-deeplabv3)
+
+## Session 6
+### Lab
+Lab 6.1 News Classification: https://www.kaggle.com/code/sakharam/news-classification-gru
+Lab 6.2 Translation: https://www.kaggle.com/code/sakharam/fr-en-translation-gru-with-attention 
