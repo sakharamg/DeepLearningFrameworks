@@ -53,3 +53,5 @@ IMDB Reviews - Sentiment Analysis: https://www.kaggle.com/datasets/lakshmi25npat
 Samsum - Summarization: https://www.kaggle.com/datasets/nileshmalode1/samsum-dataset-text-summarization
 ### Lab
 Lab 7.1 Sentiment Analysis: https://www.kaggle.com/code/sakharam/sentiment-imdb-transformers-encoder-from-scratch
+
+Lab 7.2 Summarization: https://www.kaggle.com/code/ameenhasan/text-summarization-using-t5
