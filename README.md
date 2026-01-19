@@ -56,5 +56,7 @@ Samsum - Summarization: https://www.kaggle.com/datasets/nileshmalode1/samsum-dat
 Lab 7.1 Sentiment Analysis: https://www.kaggle.com/code/sakharam/sentiment-imdb-transformers-encoder-from-scratch
 
 Lab 7.2 Summarization: https://www.kaggle.com/code/ameenhasan/text-summarization-using-t5
+
+Lab 7.3 (Extra) - Sentiment Classification (SST2) using LoRA: https://www.kaggle.com/code/sakharam/gpt2-lora-peft-training-sentiment-analysis
 ### Resources
 Coding Transformers from Scratch: https://www.youtube.com/watch?v=ISNdQcPhsts
