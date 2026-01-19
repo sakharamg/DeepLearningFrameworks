@@ -45,3 +45,7 @@ Lab 5.2 DeepLab : [https://www.kaggle.com/code/sakharam/segmentation-u-net](http
 ### Lab
 Lab 6.1 News Classification: https://www.kaggle.com/code/sakharam/news-classification-gru
 Lab 6.2 Translation: https://www.kaggle.com/code/sakharam/fr-en-translation-gru-with-attention 
+
+## Session 7
+### Lab
+Lab 7.1 Sentiment Analysis: https://www.kaggle.com/code/sakharam/sentiment-imdb-transformers-encoder-from-scratch
