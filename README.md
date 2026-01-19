@@ -50,8 +50,11 @@ Lab 6.2 Translation: https://www.kaggle.com/code/sakharam/fr-en-translation-gru-
 ## Session 7
 ### Dataset
 IMDB Reviews - Sentiment Analysis: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 Samsum - Summarization: https://www.kaggle.com/datasets/nileshmalode1/samsum-dataset-text-summarization
 ### Lab
 Lab 7.1 Sentiment Analysis: https://www.kaggle.com/code/sakharam/sentiment-imdb-transformers-encoder-from-scratch
 
 Lab 7.2 Summarization: https://www.kaggle.com/code/ameenhasan/text-summarization-using-t5
+### Resources
+Coding Transformers from Scratch: https://www.youtube.com/watch?v=ISNdQcPhsts
