@@ -60,3 +60,9 @@ Lab 7.2 Summarization: https://www.kaggle.com/code/ameenhasan/text-summarization
 Lab 7.3 (Extra) - Sentiment Classification (SST2) using LoRA: https://www.kaggle.com/code/sakharam/gpt2-lora-peft-training-sentiment-analysis
 ### Resources
 Coding Transformers from Scratch: https://www.youtube.com/watch?v=ISNdQcPhsts
+
+## Session 8
+### Lab
+Lab 7.1 Conditional GAN: [https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items](https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items)
+
+Lab 7.2 
