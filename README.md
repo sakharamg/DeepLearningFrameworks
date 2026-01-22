@@ -64,5 +64,3 @@ Coding Transformers from Scratch: https://www.youtube.com/watch?v=ISNdQcPhsts
 ## Session 8
 ### Lab
 Lab 7.1 Conditional GAN: [https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items](https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items)
-
-Lab 7.2 
