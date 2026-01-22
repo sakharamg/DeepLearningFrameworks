@@ -63,4 +63,9 @@ Coding Transformers from Scratch: https://www.youtube.com/watch?v=ISNdQcPhsts
 
 ## Session 8
 ### Lab
-Lab 7.1 Conditional GAN: [https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items](https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items)
+Lab 8.1 Conditional GAN: [https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items](https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items)
+
+Extra
+Lab 8.2 Diffusion Models: [[https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items](https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items)](https://www.kaggle.com/code/sakharam/diffusion-cifar)
+
+Lab 8.3 Conditional Diffusion Models - Sketch to Pokemon: https://www.kaggle.com/code/sakharam/diffusion-model-sketch-to-pokemon
