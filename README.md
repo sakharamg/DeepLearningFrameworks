@@ -73,7 +73,11 @@ Lab 8.3 Conditional Diffusion Models - Sketch to Pokemon: https://www.kaggle.com
 
 ## Session 9
 ### Lab
-Lab 8.1 (TF) Fully Connected Network for predicting Fashion Item (FashionMNIST): 
+**Lab 8.1 Fully Connected Network for predicting Fashion Item (FashionMNIST)**
+
+PT: https://www.kaggle.com/code/sakharam/pytorch-fashion-mnist-multiclassclassification
+
+TF: https://www.kaggle.com/code/sakharam/tensorflow-fashionmnist-multiclass-classificat
 
 Lab 8.2 (TF) CNN :
 
