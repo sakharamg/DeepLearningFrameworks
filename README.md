@@ -73,12 +73,18 @@ Lab 8.3 Conditional Diffusion Models - Sketch to Pokemon: https://www.kaggle.com
 
 ## Session 9
 ### Lab
-**Lab 8.1 Fully Connected Network for predicting Fashion Item (FashionMNIST)**
+**Lab 9.1 Fully Connected Network for predicting Fashion Item (FashionMNIST)**
 
 PT: https://www.kaggle.com/code/sakharam/pytorch-fashion-mnist-multiclassclassification
 
 TF: https://www.kaggle.com/code/sakharam/tensorflow-fashionmnist-multiclass-classificat
 
-Lab 8.2 (TF) Distillation using KL divergence: https://www.kaggle.com/code/sakharam/tensorflow-knowledge-distillation-fashion-mnist
+Lab 9.2 (TF) Distillation using KL divergence: https://www.kaggle.com/code/sakharam/tensorflow-knowledge-distillation-fashion-mnist
 
-Lab 8.3 (TF) CNN - Cat or Dog: https://www.kaggle.com/code/sakharam/tensorflow-classification-cat-or-dog
+Lab 9.3 (TF) CNN - Cat or Dog: https://www.kaggle.com/code/sakharam/tensorflow-classification-cat-or-dog
+### Resources
+Response based Knowledge Distillation: https://arxiv.org/abs/1503.02531
+
+Intermediate Layers Knowledge Distillation: https://arxiv.org/abs/1412.6550
+
+Sequence level Knowledge Distillation: https://aclanthology.org/D16-1139.pdf
