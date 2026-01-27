@@ -81,4 +81,4 @@ TF: https://www.kaggle.com/code/sakharam/tensorflow-fashionmnist-multiclass-clas
 
 Lab 8.2 (TF) Distillation using KL divergence: https://www.kaggle.com/code/sakharam/tensorflow-knowledge-distillation-fashion-mnist
 
-Lab 8.3 (TF) CNN :
+Lab 8.3 (TF) CNN - Cat or Dog: https://www.kaggle.com/code/sakharam/tensorflow-classification-cat-or-dog
