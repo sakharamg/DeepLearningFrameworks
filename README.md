@@ -79,6 +79,6 @@ PT: https://www.kaggle.com/code/sakharam/pytorch-fashion-mnist-multiclassclassif
 
 TF: https://www.kaggle.com/code/sakharam/tensorflow-fashionmnist-multiclass-classificat
 
-Lab 8.2 (TF) CNN :
+Lab 8.2 (TF) Distillation using KL divergence: https://www.kaggle.com/code/sakharam/tensorflow-knowledge-distillation-fashion-mnist
 
-Lab 8.3 (TF) Distillation using KL divergence: 
+Lab 8.3 (TF) CNN :
