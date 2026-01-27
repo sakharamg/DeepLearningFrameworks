@@ -65,7 +65,16 @@ Coding Transformers from Scratch: https://www.youtube.com/watch?v=ISNdQcPhsts
 ### Lab
 Lab 8.1 Conditional GAN: [https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items](https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items)
 
-Extra
+**Extra**
+
 Lab 8.2 Diffusion Models: [(https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items)](https://www.kaggle.com/code/sakharam/diffusion-cifar)
 
 Lab 8.3 Conditional Diffusion Models - Sketch to Pokemon: https://www.kaggle.com/code/sakharam/diffusion-model-sketch-to-pokemon
+
+## Session 9
+### Lab
+Lab 8.1 (TF) Fully Connected Network for predicting Fashion Item (FashionMNIST): 
+
+Lab 8.2 (TF) CNN :
+
+Lab 8.3 (TF) Distillation using KL divergence: 
