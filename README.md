@@ -93,4 +93,4 @@ Sequence level Knowledge Distillation: https://aclanthology.org/D16-1139.pdf
 ## Lab
 Lab 10.1 Multivariate time series using GRU: https://www.kaggle.com/code/sakharam/multivariate-time-series-forecasting-with-gru
 
-Lab 10.2 Post Training Quantization and Quantization Aware Training: https://www.kaggle.com/code/sakharam/multivariate-time-series-forecasting-with-gru
+Lab 10.2 Post Training Quantization and Quantization Aware Training: https://www.kaggle.com/code/sakharam/pytorch-cnn-quantization-lab-static-qat
