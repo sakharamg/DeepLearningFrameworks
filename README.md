@@ -88,3 +88,9 @@ Response based Knowledge Distillation: https://arxiv.org/abs/1503.02531
 Intermediate Layers Knowledge Distillation: https://arxiv.org/abs/1412.6550
 
 Sequence level Knowledge Distillation: https://aclanthology.org/D16-1139.pdf
+
+## Session 10
+## Lab
+Lab 10.1 Multivariate time series using GRU: https://www.kaggle.com/code/sakharam/multivariate-time-series-forecasting-with-gru
+
+Lab 10.2 Post Training Quantization and Quantization Aware Training: https://www.kaggle.com/code/sakharam/multivariate-time-series-forecasting-with-gru
