@@ -96,7 +96,7 @@ Lab 10.1 Multivariate time series using GRU: https://www.kaggle.com/code/sakhara
 Lab 10.2 Post Training Quantization and Quantization Aware Training: https://www.kaggle.com/code/sakharam/pytorch-cnn-quantization-lab-static-qat
 
 ## Session 11
-###Lab
+### Lab
 Lab 11.1 Convolutional Auto Encoder - Dimensionality Reduction and Noise Removal in Tensorflow: https://www.kaggle.com/code/sakharam/convolutional-autoencoder-for-images-mnist
 
 Lab 11.2 Gradient Checkpointing in Pytorch: https://www.kaggle.com/code/sakharam/gradient-checkpointing-cnn-memory-optimization
