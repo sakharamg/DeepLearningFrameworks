@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/julinmaloof/the-oxfordiiit-pet-dataset
 ### Lab
 Lab 5.1 UNet : https://www.kaggle.com/code/sakharam/segmentation-u-net
 
-Lab 5.2 DeepLab : [https://www.kaggle.com/code/sakharam/segmentation-u-net](https://www.kaggle.com/code/sakharam/segmentation-deeplabv3)
+Lab 5.2 DeepLab : https://www.kaggle.com/code/sakharam/segmentation-deeplabv3
 
 ## Session 6
 Lost the annotations added on slides.
@@ -67,7 +67,7 @@ Lab 8.1 Conditional GAN: [https://www.kaggle.com/code/sakharam/conditional-gan-f
 
 **Extra**
 
-Lab 8.2 Diffusion Models: [(https://www.kaggle.com/code/sakharam/conditional-gan-fashion-mnist-generate-items)](https://www.kaggle.com/code/sakharam/diffusion-cifar)
+Lab 8.2 Diffusion Models: https://www.kaggle.com/code/sakharam/diffusion-cifar
 
 Lab 8.3 Conditional Diffusion Models - Sketch to Pokemon: https://www.kaggle.com/code/sakharam/diffusion-model-sketch-to-pokemon
 
