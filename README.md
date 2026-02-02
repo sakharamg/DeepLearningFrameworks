@@ -3,7 +3,7 @@
 Hands-on labs and slides for a Deep Learning Frameworks course covering PyTorch and TensorFlow.
 
 ## Contents 
-- Session 1: Intro to Pytorch, Pytorch datatypes and operations, Linear Regressionr
+- Session 1: Intro to Pytorch, Pytorch datatypes and operations, Linear Regression (draft)
 - Session 2: Non-linear boundaries, activation functions, backprop, autograd, dataset, dataloader, regularization
 - Session 3: CNNs, batch normalization, saliency maps, activation maps, exploding/vanishing gradients, gradient clipping
 - Session 4: Pretrained vision models (VGG, ResNet), residual connections, transfer learning, finetuning, object detection, LR scheduler, gradient accumulation
